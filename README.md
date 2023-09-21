@@ -1,5 +1,5 @@
-# csv-column-extractor
-Extract specific columns from a CSV using pandas/dask
+# CSV Column Extractor
+Extract specific columns from a CSV using Python
 
 # Requirements
 1. Python and PIP Package Manager
